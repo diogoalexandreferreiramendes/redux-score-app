@@ -1,0 +1,19 @@
+.buttonsSet{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+
+.buttonsSet p{
+    margin: 0;
+    flex: 2;
+    text-align: center;
+}
+
+.buttonsSet button{
+    flex: 1;
+}

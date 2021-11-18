@@ -1,0 +1,13 @@
+.buttonsSet{
+    align-items: center;
+}
+
+.buttonsSet div h3{
+    margin: 0;
+}
+
+#adminId{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
